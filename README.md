@@ -30,6 +30,11 @@
 
 + indicatif
 
+### Lazy execution
+
++ lazy_static
++ once_cell
+
 ### Data serialization
 
 + serde (& serde-json)
@@ -52,7 +57,7 @@
 
 + async-trait
 
-### DB Pools
+### Connection Pools
 
 + mobc (async)
 + deadpool (async)
