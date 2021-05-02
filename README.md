@@ -2,6 +2,11 @@
 
 > Just a personal list with helpful rust crates
 
+## Learn Rust
+
++ [Rust book](https://doc.rust-lang.org/stable/book/)
++ [Learning Rust](https://github.com/learning-rust/site)
+
 ## Sources
 
 + [crates.io](https://crates.io/)
