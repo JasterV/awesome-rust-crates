@@ -74,4 +74,12 @@
 + Diesel (sync)
 + quaint (async)
 
+### FFI
+
+[**Here**](https://lib.rs/development-tools/ffi)
+
+### Concurrency utils
+
++ crossbeam
+
 
