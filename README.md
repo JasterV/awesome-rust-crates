@@ -27,6 +27,10 @@
 + Yew
 + Iced
 
+### Event-driven messaging
+
++ message-io
+
 ### Template engines
 
 + handlebars
