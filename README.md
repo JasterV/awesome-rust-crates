@@ -27,6 +27,10 @@
 + Yew
 + Iced
 
+### Template engines
+
++ handlebars
+
 ### CLI frameworks
 
 + clap
@@ -71,8 +75,8 @@
 
 ### ORMs
 
-+ Diesel (sync)
-+ quaint (async)
++ Diesel (sync)(Strictly typed)
++ quaint (async)(Dynamic typing)
 
 ### FFI
 
