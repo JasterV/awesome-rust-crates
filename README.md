@@ -27,6 +27,10 @@
 + Yew
 + Iced
 
+### Data validation
+
++ validator
+
 ### Event-driven messaging
 
 + message-io
@@ -34,6 +38,10 @@
 ### Template engines
 
 + handlebars
+
+### Telegram bot
+
++ teloxide
 
 ### CLI frameworks
 
