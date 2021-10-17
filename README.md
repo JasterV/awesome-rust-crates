@@ -81,6 +81,7 @@
 ### HTTP libraries
 
 + Hyper
++ reqwest
 
 ### Connection Pools
 
