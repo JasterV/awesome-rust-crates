@@ -78,6 +78,10 @@
 
 + async-trait
 
+### HTTP libraries
+
++ Hyper
+
 ### Connection Pools
 
 + mobc (async)
